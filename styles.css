@@ -1,16 +1,13 @@
-.header{
+body{
     background-color: burlywood;
-    width: 100%;
-    height: 100%;
-    padding-bottom: 50%;
-    margin-top: -20px;
-    margin-bottom: 0px;
-    margin-right: 0px;
-    margin-left: -6px;
 }
-.nav{
-    background-color: chocolate;
-    padding: auto;
-    margin-top: -15px;
-    margin-left: -6px;
+li{
+    display:inline;
+    float: left;
+    margin-top: 0px;
+    padding-right:10px;
+    padding-left: 0;
+    color: antiquewhite;
+    width:auto;
+    
 }
