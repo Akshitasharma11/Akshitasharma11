@@ -1,13 +1,20 @@
 body{
+    margin: 0;
     background-color: burlywood;
 }
 li{
-    display:inline;
-    float: left;
-    margin-top: 0px;
-    padding-right:10px;
-    padding-left: 0;
-    color: antiquewhite;
-    width:auto;
-    
+    display: inline;
+    padding: 1px;
+    margin-left: 0px;
+}
+.nav{
+    margin: 0%;
+    border:1px solid brown;
+    background-color: brown;
+}
+a{
+    color:bisque;
+    margin: 0;
+    float:inline-start;
+    margin-right: 2px;
 }
