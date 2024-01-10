@@ -1,20 +1,13 @@
-body{
-    margin: 0;
-    background-color: burlywood;
-}
-li{
-    display: inline;
-    padding: 1px;
-    margin-left: 0px;
-}
 .nav{
-    margin: 0%;
-    border:1px solid brown;
+    width: 100%;
     background-color: brown;
+    overflow: auto;
 }
-a{
-    color:bisque;
-    margin: 0;
-    float:inline-start;
-    margin-right: 2px;
+.nav a{
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: burlywood;
+    text-decoration: none;
+    font-size: 17px;
 }
