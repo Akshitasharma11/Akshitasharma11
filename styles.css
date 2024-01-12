@@ -39,6 +39,19 @@ p{
 }
 .linkedin{
     position: absolute;
-    bottom: 110px;
+    bottom: 105px;
     right: 250px;
+}
+.instagram{
+    position: absolute;
+    bottom: 75px;
+    right: 250px;
+}
+.github{
+    position: absolute;
+    bottom: 40px;
+    right: 230px;
+}
+a{
+    color: beige;
 }
