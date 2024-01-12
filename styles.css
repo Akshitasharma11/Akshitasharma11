@@ -1,18 +1,18 @@
 .nav{
     width: 100%;
-    background-color: #411900;
+    background-color: #7D5A47;
     overflow: auto;
 }
 .nav a{
     float: left;
     text-align: center;
     padding: 12px;
-    color: burlywood;
+    color: #D0B38D;
     text-decoration: none;
     font-size: 17px;
 }
 body{
-    background-color: burlywood;
+    background-color: #7D5A47;
     margin: 0;
 }
 img{
@@ -27,7 +27,18 @@ p{
     width: 49%;
     text-align: justify;
     margin: 10px 0;
+    border: 10px solid #D0B38D;
+    background-color: #D0B38D ;
 }
 .intro{
     display: inline;
+}
+.header{
+    position: relative;
+    text-align: center;
+}
+.linkedin{
+    position: absolute;
+    bottom: 110px;
+    right: 250px;
 }
