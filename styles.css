@@ -27,8 +27,9 @@ p{
     width: 49%;
     text-align: justify;
     margin: 10px 0;
-    border: 10px solid #D0B38D;
-    background-color: #D0B38D ;
+    color:#D0B38D;
+    /*border: 10px solid #D0B38D;
+    background-color: #D0B38D ; */
 }
 .intro{
     display: inline;
@@ -54,4 +55,7 @@ p{
 }
 a{
     color: beige;
+}
+h1{
+    color: white;
 }
