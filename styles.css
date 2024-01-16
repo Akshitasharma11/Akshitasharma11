@@ -19,18 +19,6 @@ img{
     width: 100%;
     height: 100%;
 }
-p{
-    display: inline;
-    font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    float: left;
-    width: 49%;
-    text-align: justify;
-    margin: 10px 0;
-    color:#D0B38D;
-    /*border: 10px solid #D0B38D;
-    background-color: #D0B38D ; */
-}
 .intro{
     display: inline;
 }
@@ -58,4 +46,21 @@ a{
 }
 h1{
     color: white;
+}
+p{
+    display: inline;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    width: 50%;
+    text-align: justify;
+    margin: 10px 1px;
+    color:#D0B38D;
+    /*border: 10px solid #D0B38D;
+    background-color: #D0B38D ; */
+}
+.second img{
+    width: 50%;
+    height: auto;
+    display: inline;
 }
