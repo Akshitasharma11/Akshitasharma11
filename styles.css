@@ -67,3 +67,8 @@ p{
 .second{
     display: inline;
 }
+.introphoto{
+    display: inline;
+    width: fit-content;
+    height: auto;
+}
