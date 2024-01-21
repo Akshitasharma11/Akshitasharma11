@@ -56,20 +56,22 @@ p{
     /*border: 10px solid #D0B38D;
     background-color: #D0B38D ; */
 }
-.second img{
-    width: 50%;
-    height: auto;
-    display: inline;
-}
 .second{
     display: flex;
 }
-.intro{
-    width: 50%;
-}
 .gallery{
-    float: right;
     display: flex;
-    width: 10%;
-    height: auto;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+.gallery img{
+  width: 400px;
+  height: 400px;
+  margin-left: 2px;
+  padding: 2px;
+
+}
+.intro{
+    margin-right: 2px;
+    padding: 2px;
 }
