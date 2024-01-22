@@ -67,9 +67,9 @@ h1{
     margin: 0;
 }
 .wrapper #wrapperimg1{
-    background-image: url("photos\1.jpg");
+    background-image: url("photos\2.jpg");
     background-position: center;
-    background-size: 100% 100%;
+    background-size: auto;
 }
 
 /* p{
