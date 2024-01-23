@@ -74,8 +74,21 @@ h1{
     object-position: 50% 40%;
     aspect-ratio:inherit;
 }
+p{
+    color: #D0B38D;
+}
 
-/* p{
+
+
+
+
+
+
+
+
+
+
+ /* p{
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     float: left;
@@ -98,9 +111,8 @@ h1{
   height: 400px;
   margin-left: 2px;
   padding: 2px;
-
 }
 .intro{
     margin-right: 2px;
     padding: 2px;
-} */ 
+} */  
