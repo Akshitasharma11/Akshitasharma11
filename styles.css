@@ -1,6 +1,6 @@
 .nav{
     width: 100%;
-    background-color: #7D5A47;
+    background-color: #4b3832	;
     overflow: auto;
 }
 .nav a{
@@ -12,7 +12,7 @@
     font-size: 17px;
 }
 body{
-    background-color: #7D5A47;
+    background-color: #4b3832	;
     margin: 0;
 }
 img{
@@ -43,15 +43,20 @@ a{
 }
 h1{
     color: white;
+    text-align: center;
 }
 p{
-    color: #D0B38D;
+    color: #f3e2cc;
+    text-align: center;
+    margin: 10px 100px;
+    justify-content: space-around;
+    text-align: justify;
 }
 .box{
     display: inline-flex;
 }
 .box1{
-    background-color: #dfc6a5;
+    background-color: #D0B38D;
     padding: 50px;
     margin: 40px;
     width: 200px;
