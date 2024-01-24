@@ -47,6 +47,18 @@ h1{
 p{
     color: #D0B38D;
 }
+.box{
+    display: inline-flex;
+}
+.box1{
+    background-color: #dfc6a5;
+    padding: 50px;
+    margin: 40px;
+    width: 200px;
+    height: 200px;
+    border: 10px solid #D0B38D;
+    border-radius: 10px;
+}
 
 
 
