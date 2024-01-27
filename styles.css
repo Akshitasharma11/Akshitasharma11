@@ -64,6 +64,21 @@ p{
     border: 10px solid #D0B38D;
     border-radius: 10px;
 }
+.gallery{
+    background-color: #D0B38D;
+    width: 100%;
+    height: 50%;
+    padding: 20px;
+}
+.circle{
+    background-color: #4b3832;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    display: inline-block;
+    align-content: center;
+    margin: 20px;
+}
 
 
 
