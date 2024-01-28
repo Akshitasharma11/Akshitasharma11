@@ -68,16 +68,13 @@ p{
     background-color: #D0B38D;
     width: 100%;
     height: 50%;
-    padding: 20px;
+    padding: 40px;
+    display: inline-flex;
 }
-.circle{
-    background-color: #4b3832;
-    width: 200px;
-    height: 200px;
-    border-radius: 200px;
-    display: inline-block;
-    align-content: center;
-    margin: 20px;
+.photo{
+    width:50vh;
+    height:100px;
+    background-color:#4b3832;
 }
 
 
