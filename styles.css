@@ -53,6 +53,24 @@ p{
     text-align: justify;
 }
 .box{
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+}
+.box1{
+    flex-basis: 13%;
+    border-radius: 14px;
+    margin-bottom: 30px;
+    position: left;
+    overflow: hidden;
+}
+.box1 img{
+ width: 100%;
+}
+
+
+
+/* .box{
     display: inline-flex;
 }
 .box1{
@@ -69,8 +87,8 @@ p{
     height: 100%;
     padding: 40px;
     display: inline-flex;
-}
-.photo{
+} */
+/* .photo{
     width:50vh;
     height:100px;
     background-color:#4b3832;
@@ -82,7 +100,7 @@ p{
     width: 200px;
     height: 200px;
     border-radius: 10px;
-}
+} */
 
 
 
