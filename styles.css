@@ -54,8 +54,9 @@ p{
 }
 .gallery{
     width: 50%;
-    margin: auto;
+    /* margin: auto; */
     padding-top: 20px; 
+    box-sizing: border-box;
 }
 
 .box1{
@@ -64,10 +65,18 @@ p{
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
+    float: left;
+    width: 33.33%;
+    padding: 5px;
 }
-.box1 img{
+.gallery::after{
+        content: "";
+        clear: both;
+        display: table;
+}
+/* .box1 img{
  width: 100%;
-}
+} */
 
 
 
