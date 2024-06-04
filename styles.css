@@ -65,9 +65,10 @@ p{
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
-    float: left;
+    /* float: left; */
     width: 33.33%;
     padding: 5px;
+    display: inline-flex;
 }
 .gallery::after{
         content: "";
