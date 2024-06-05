@@ -62,6 +62,7 @@ p{
 }
 .box{
      display: inline-flex;
+     position: absolute;
 }
 
 
