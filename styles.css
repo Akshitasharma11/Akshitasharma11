@@ -70,11 +70,11 @@ p{
     padding: 5px;
     display: inline-flex;
 }
-.gallery::after{
+/* .gallery::after{
         content: "";
         clear: both;
         display: table;
-}
+} */
 
 
 
