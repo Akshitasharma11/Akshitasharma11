@@ -57,12 +57,11 @@ p{
 }
 .box1{
     width: 30%;
-    height: 60%;
-    padding: 10px;
+    height: 70%;
+    padding: 18px;
 }
 .box{
      display: inline-flex;
-     position: absolute;
 }
 
 
