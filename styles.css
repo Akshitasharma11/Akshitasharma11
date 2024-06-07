@@ -59,6 +59,7 @@ p{
     width: 30%;
     height: 70%;
     padding: 18px;
+    border-radius: 10%;
 }
 .box{
      display: inline-flex;
