@@ -61,13 +61,20 @@ p{
     height: 70%;
     padding: 18px;
     border-radius: 10%;
+    display:block;
 }
 .box{
      display: inline-flex;
 }
 
-
-
+.overlay{
+    background-color: #4b3832;
+    transition: .5s ease;
+    height:100%;
+}
+.box:hover .overlay{
+    width:100%;
+}
 
 
 
