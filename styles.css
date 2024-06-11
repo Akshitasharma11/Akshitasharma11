@@ -62,10 +62,8 @@ p{
 .image{
     display: block;
     width: 30px;
-    height: 70px;
-    padding: 18px;
-    border-radius: 10%;
-    display:block; 
+    height: 50px;
+    
 }
 .box{
      display: inline-flex;
