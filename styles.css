@@ -61,13 +61,11 @@ p{
 }
 .image{
     display: block;
-  width: 100%;
-  height: auto;
-    /* width: 30%;
-    height: 70%;
+    width: 30px;
+    height: 70px;
     padding: 18px;
     border-radius: 10%;
-    display:block; */
+    display:block; 
 }
 .box{
      display: inline-flex;
@@ -80,7 +78,7 @@ p{
   bottom: 0;
   left: 100%;
   right: 0;
-  background-color: #008CBA;
+  background-color: #f3e2cc;
   overflow: hidden;
   width: 0;
   height: 100%;
