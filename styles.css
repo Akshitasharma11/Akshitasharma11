@@ -61,14 +61,14 @@ p{
 }
 .image{
     display: block;
-    width: 30px;
+    width: 100px;
     height: 50px;
     
 }
 .box{
      display: inline-flex;
      position: relative;
-     width: 50%;
+     width: 30%;
 }
 
 .overlay{
