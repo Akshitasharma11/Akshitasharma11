@@ -65,7 +65,7 @@ p{
     height: 50px;
     
 }
-.box{
+.box1{
      display: inline-flex;
      position: relative;
      width: 30%;
@@ -86,7 +86,7 @@ p{
     height:100%;
     position: absolute; */
 }
-.box:hover .overlay{
+.box1:hover .overlay{
     width:100%;
     left: 0;
 }
