@@ -56,20 +56,37 @@ p{
     text-align: justify;
 }
 .gallery{
-    display: inline flex;
+    display: flex;
     margin-top: 30px;
 }
-.image{
-    display: block;
+/* .image{
     width: 100px;
-    height: 50px;
+    height: 50px; */
     
-}
-.box1{
-     display: inline-flex;
+
+.box{
+    float: left;
+    display:flex;
      position: relative;
      width: 30%;
+     flex: 33.33%
 }
+.gallery::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+/* .box2{
+    display: inline-flex;
+    position: relative;
+    width: 30%;
+    position: center;
+}
+.box3{
+    display: inline-flex;
+    width: 30%;
+    float: right;
+} */
 
 .overlay{
     position: absolute;
@@ -81,12 +98,8 @@ p{
   width: 0;
   height: 100%;
   transition: .5s ease;
-    /* background-color: #4b3832;
-    transition: .5s ease;
-    height:100%;
-    position: absolute; */
 }
-.box1:hover .overlay{
+.box:hover .overlay{
     width:100%;
     left: 0;
 }
