@@ -70,6 +70,7 @@ p{
      position: relative;
      width: 30%;
      flex: 33.33%;
+     padding-top: 0%;
      padding: 10px;
 }
 .gallery::after {
@@ -77,24 +78,12 @@ p{
     clear: both;
     display: table;
 }
-/* .box2{
-    display: inline-flex;
-    position: relative;
-    width: 30%;
-    position: center;
-}
-.box3{
-    display: inline-flex;
-    width: 30%;
-    float: right;
-} */
-
 .overlay{
     position: absolute;
   bottom: 0;
   left: 100%;
   right: 0;
-  background-color: #f3e2cc;
+  background-color: #D0B38D;
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -105,7 +94,7 @@ p{
     left: 0;
 }
 .text{
-color: white;
+  color: white;
   font-size: 20px;
   position: absolute;
   top: 50%;
