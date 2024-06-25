@@ -69,7 +69,8 @@ p{
     display:flex;
      position: relative;
      width: 30%;
-     flex: 33.33%
+     flex: 33.33%;
+     padding: 10px;
 }
 .gallery::after {
     content: "";
