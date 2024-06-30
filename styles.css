@@ -104,6 +104,13 @@ p{
   transform: translate(-50%, -50%);
   white-space: nowrap;
 }
+.education:table{
+    color: #D0B38D;
+}
+.table{
+    color: #D0B38D;
+    text-align: center;
+}
 
 
 
