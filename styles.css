@@ -107,9 +107,10 @@ p{
 .education:table{
     color: #D0B38D;
 }
-.table{
+.study{
     color: #D0B38D;
-    position: center;
+    left: auto;
+    right: auto;
 }
 
 
