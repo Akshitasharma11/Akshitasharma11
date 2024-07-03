@@ -109,6 +109,7 @@ p{
 }
 .study{
     color: #D0B38D;
+    position: relative;
     left: auto;
     right: auto;
 }
