@@ -109,9 +109,10 @@ p{
 }
 .study{
     color: #D0B38D;
-    position: relative;
+    position: absolute;
     left: auto;
     right: auto;
+
 }
 
 
