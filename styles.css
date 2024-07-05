@@ -109,10 +109,13 @@ p{
 }
 .study{
     color: #D0B38D;
-    position: absolute;
-    left: auto;
-    right: auto;
+    border: 1px solid white;
+   margin-left: auto;
+   margin-right: auto;
 
+}
+.table,th,tr{
+    
 }
 
 
